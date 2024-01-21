@@ -10,7 +10,7 @@ function Projects() {
         <div className="flex flex-wrap justify-center gap-10">
 
           <div className="card w-96 bg-white shadow-xl">
-            <figure><img src={imgEUvsMeta} alt="photo eu vs meta" /></figure>
+            <figure><img src={imgEUvsMeta} alt="photo_eu_vs_meta" /></figure>
             <div className="card-body">
               <h2 className="card-title">Should Social Media Users Have to Pay for Privacy?</h2>
               <p>An article written for the final project in CS H195, where we looked at Metas newest subscription model where users are forced to pay to avoid targeted advertisement.</p>
